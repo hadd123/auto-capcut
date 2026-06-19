@@ -1,0 +1,13 @@
+public enum C906ABA6 : uint
+{
+	_880B1B86 = 48u,
+	_67A4632F = 64u,
+	_8481B1AD = 16u,
+	_102BD18E = 32u,
+	F3887DAB = 0u,
+	_3006AB0F = 48u,
+	_9413B813 = 16u,
+	CB147BB5 = 16u,
+	_51955FBD = 128u,
+	_7F9DC70E = 64u
+}
